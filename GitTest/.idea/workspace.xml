@@ -60,8 +60,8 @@
     <option name="jreName" value="1.8" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="168" />
-    <option name="y" value="88" />
+    <option name="x" value="298" />
+    <option name="y" value="173" />
     <option name="width" value="1935" />
     <option name="height" value="1219" />
   </component>
@@ -133,15 +133,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604744424269</updated>
-      <workItem from="1604744427769" duration="250000" />
+      <workItem from="1604744427769" duration="545000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="250000" />
+    <option name="totallyTimeSpent" value="545000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="135" y="71" width="1548" height="975" extended-state="0" />
+    <frame x="239" y="139" width="1548" height="975" extended-state="0" />
     <layout>
       <window_info id="JRebel" side_tool="true" />
       <window_info id="Designer" />
